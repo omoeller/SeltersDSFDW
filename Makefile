@@ -31,5 +31,10 @@ KOMPLETT.txt: $(wildcard [a-z]*.txt)
 clean:	
 	rm -rf KOMPLETT.txt *\~ *\#
 
+.PHONEY: zip
+
+ARCHIVNAME=./Archiv/s-`date +"%Y-%m-%d"`
+
 zip:	clean all
-	zip ./Archiv/s-`date +"%Y-%m-%d"` *.txt
+	zip  $(ARCHIVNAME) *.txt;
+	chmod ugo-w $(ARCHIVNAME)
