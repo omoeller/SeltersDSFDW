@@ -14,7 +14,7 @@ Aus der Verfilmung ist nie etwas geworden - aber vielleicht findet sich
 jemand, der dies aufgreifen und zur vollen Reife führen möchte.
 Eine (etwas krüde) HTML Version findet sich hier:
 
-	http://www.verify-it.de/selters_DSFDW.html
+http://www.verify-it.de/selters_DSFDW.html
 
 Basis sind die einzelnen Textdateien dieses Repositories.
 
