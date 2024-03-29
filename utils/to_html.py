@@ -53,7 +53,9 @@ with open(info, 'r') as inf:
         if m is not None:
             ref[txt2html(m.group(1))] = '<B><FONT COLOR="#{0:08x}">{1}</FONT></B>'.format(next_col(), txt2html(m.group(2)))
 keys = list(ref.keys())
-            
+keys.sort(key=lambda x: len(x), reverse=True)
+
+#sys.stderr.write("{0}".format(keys))
 #sys.stderr.write("USING Mapping: {0}".format(ref))
 
 os.system('git rev-parse HEAD > tmp.TXT')
