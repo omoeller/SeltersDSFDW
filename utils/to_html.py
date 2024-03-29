@@ -71,8 +71,13 @@ print("""<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
      DATUM         : {1}
 --> </HEAD>
 <BODY>
+<Ha>Selters - mit den Klons kamen die Tr&auml;nen</H1>
+<b>(Der sch&ouml;nste Film der Welt)</b><br>
+
+
 """.format(version, datetime.datetime.today()))
 
+last = ""
 for f in txt:
     print("<H1>{0}</H1>".format(txt2html(f)))
     with open(f, 'r') as inf:
@@ -83,7 +88,10 @@ for f in txt:
             line = txt2html(line)
             for k in keys:
                 line = line.replace(k, ref[k])
+            if (last == "<br>") and (line == "<br>"):
+                continue
             print(line)
+            last = line
 print("""
 </BODY>
 </HTML>
