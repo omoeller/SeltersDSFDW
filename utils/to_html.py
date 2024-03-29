@@ -36,8 +36,8 @@ def c2html(c):
             return "&lt;"
         if c == ">":
             return "&gt;"
-        if c == "`":
-            return "'"
+        if c == "´":
+            return "'" # "&#39;"
     return c
 
 def txt2html(txt):
