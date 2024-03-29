@@ -29,20 +29,26 @@ a.v.T.=alter, verzuzelter, angetrunkener Typ, Groupie der Hupfdohlen
 
 A.=Karl Avon, UFO-Berater
 
-K.J.#1=Kammerjäger, spezialisiert auf Silberkarpfen
-K.J.#2=Kammerjäger, spezialisiert auf Kakerlaken
+K.J.#1=Kammerjäger 1, spezialisiert auf Silberkarpfen
+K.J.#2=Kammerjäger 2, spezialisiert auf Kakerlaken
 
 H.D.=Hupfdohle, hauptberuflich Sekräterin im Gesundheitsamt,  wird von Wotan be-
         wacht
-
-
+M.=Milchmann, muss im Kuhkostüm auftreten um sein magermilchiges Gehalt aufzubessern
+P#1=Polizist 1, generisch
+P#2=Polizist 2, einfach Verstärkung
+F.=Frank, Teil des Ermittlungsteams
 B.=das Böse, strebt die Landkreisherrschaft an
 K.mit div.#: Klon, #21=führt den nicht existenten Auftrag phis alpha 2821 aus und ver-
                            wirkt damit sein Killerdasein
                    #4=kennt die fünfte Carmichael Zahl; tänzelt mit K.#17 über Dächer
                    #17=kennt auch die fünften Zahl; tänzelt mit K.#4 über Dächer
                    #5=hat zuviel <Psycho> gesehen
-
+K.#4=Klon#4,
+K.#5=Klon#5,
+K.#12=Klon#12,
+K.#17=Klon#17,
+K.#21=Klon#21,
 
 N.Sch.=Nachbar Schröder, wohnt neben H.D. im Tulpenland
 S.P.=sozialer, wenn auch aufdringlicher Passant, kennt den <Hassemalnemark-Blick> 

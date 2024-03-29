@@ -4,7 +4,7 @@
 ## -- $Date$
 ## -------------------------------------------------------------------------
 
-D.T., nachdem er die Wohnung As. durchsucht hat auf dem Weg zu KK.
+D.T., nachdem er die Wohnung A.s durchsucht hat auf dem Weg zu KK.
     innere Monolog: "Hm, da war nix auffälliges an diesem Kerl. Was ich außerdem 
         nicht gefunden hatte, war ein ganzer Karpfenarsch voll Drohbriefen von Gläubi-
         gern."
@@ -42,8 +42,8 @@ auf dem Weg in KK.
 er steht vor KK.
 sitzt eine ganze Weile an der Theke
 im Hintergrund zwei K.J.
-    K.J. #1: "Nimm den Schürhaken, bevor Du gegen die Kakerlake vorgehst!"
-    K.J. #2: "Au, mir ist ein Silberkarpfen auf die Füße getreten!"
+    K.J.#1: "Nimm den Schürhaken, bevor Du gegen die Kakerlake vorgehst!"
+    K.J.#2: "Au, mir ist ein Silberkarpfen auf die Füße getreten!"
     K. (nur Stimme): "Erledigt euren Job gefälligst leise!"
 D.T. hat die Akte als Untersetzer für <das Übliche> bereitliegen, K. taucht auf
 K. stellt ihm <das Übliche>hin
@@ -62,12 +62,12 @@ K. schnappt sich mit einem verächtlichen Grunzen die Akte und schlägt sie auf
     K.: "Wer zahlt, darf sehen. Ist das der, der zahlen muß? Sein Bruder?-Moment, der  
         war doch hier, der hat nix bestellt, voll asozial. Der stand nur bei dem Selbst-
         mörder rum."
-D.T. reißt ihr total überrascht das Bild des Ks.#21 aus der Hand
+D.T. reißt ihr total überrascht das Bild des K.#21s aus der Hand
     D.T.: "Was, wo?"
     innerer Monolog: "Auf einmal paßten zwei Teile zusammen: der Hundekot, die Zi-
-        garre, die fetten Konten. Verdammt, ich hatte recht gehabt, es wae Mord!"
-Musik Tataa
-Sekundenlange Stille
+        garre, die fetten Konten. Verdammt, ich hatte recht gehabt, es war Mord!"
+(Musik Tataa)
+(Sekundenlange Stille)
     K.J.#1 (begleitet von einem "patz"): "Jetzt hab` ich sie erwischt!"
 
 

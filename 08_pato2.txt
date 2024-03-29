@@ -4,7 +4,7 @@
 ## -- $Date$
 ## -------------------------------------------------------------------------
 
-D.Ts. Wohnung
+(D.T.s Wohnung)
 ein Wecker klingelt, auf neun Uhr gestellt
     innerer Monolog: "Man kann nicht alle Seiten seines Berufes lieben. Und wenn man 
         schon um Mitternacht aufstehen muß, sollte wenigstens der Wecker eine huma-
