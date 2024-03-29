@@ -3,7 +3,9 @@
 
 import sys
 import re
+import os
 import random
+import datetime
 
 info = sys.argv[1]
 txt = sys.argv[2:]
@@ -54,13 +56,22 @@ keys = list(ref.keys())
             
 #sys.stderr.write("USING Mapping: {0}".format(ref))
 
+os.system('git rev-parse HEAD > tmp.TXT')
+with open('tmp.TXT', 'r') as inf:
+    for line in inf:
+        version = line.strip()
+os.remove('tmp.TXT')        
+
 print("""<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <HTML>
 <HEAD>
 <TITLE>Selters - mit den Klons kamen die Tr&auml;nen (Der sch&ouml;nste Film der Welt)</TITLE>
-</HEAD>
+<!-- 
+     VERSIONS-STAND: {0}
+     DATUM         : {1}
+--> </HEAD>
 <BODY>
-""")
+""".format(version, datetime.datetime.today()))
 
 for f in txt:
     print("<H1>{0}</H1>".format(txt2html(f)))
