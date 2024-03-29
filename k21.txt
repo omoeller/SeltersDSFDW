@@ -4,46 +4,46 @@
 ## -- $Date$
 ## -------------------------------------------------------------------------
 
-"Knäckebißüberblendung"
+"KnÃ¤ckebiÃŸÃ¼berblendung"
 D.Ts. Wohnung
-    innerer Monolog: "Es wurde Zeit, sich an die Arbeit zu machen. Das heißt: gründ-
+    innerer Monolog: "Es wurde Zeit, sich an die Arbeit zu machen. Das heiÃŸt: grÃ¼nd-
         lich recherchieren, und vor allem nachdenken. Am besten konnte ich das im
-        Schlaf. Ich mußte mich nur noch ausziehen."-macht die Hose auf-"Ich sollte noch
-        einen Knoten ins Taschentuch machen, daß ich morgen im Polizeipräsidium vor-
-        beischauen wollte. Ach ja, Taschentücher waren keine mehr da. Na gut, dann 
+        Schlaf. Ich muÃŸte mich nur noch ausziehen."-macht die Hose auf-"Ich sollte noch
+        einen Knoten ins Taschentuch machen, daÃŸ ich morgen im PolizeiprÃ¤sidium vor-
+        beischauen wollte. Ach ja, TaschentÃ¼cher waren keine mehr da. Na gut, dann 
         eben einen Knoten in den Hemdzipfel. Ich fing an, wieder an das Schlechte in der
-        Welt zu glauben. Überhaupt war das der beste Punkt, einen Kriminalfall zu be-
-        ginnen. Man fängt bei etwas ganz Bösem an und arbeitet sich hoch, bis man
-        beim Täter ist. Sowieso weiß niemand, was unter dieser Stadt vor sich geht."
+        Welt zu glauben. Ãœberhaupt war das der beste Punkt, einen Kriminalfall zu be-
+        ginnen. Man fÃ¤ngt bei etwas ganz BÃ¶sem an und arbeitet sich hoch, bis man
+        beim TÃ¤ter ist. Sowieso weiÃŸ niemand, was unter dieser Stadt vor sich geht."
 
 
 
-Beine- und Händeszene des B., Kamera auf Rücken des B.
+Beine- und HÃ¤ndeszene des B., Kamera auf RÃ¼cken des B.
 ein Paar Beine laufen durch einen dunklen Kellerflur, zwei weitere Beinpaare werden sichtbar
-    K.#21: "Hört mal, Jungs, ihr müßt das nicht tun. Ihr seid doch frei denkende We-
+    K.#21: "HÃ¶rt mal, Jungs, ihr mÃ¼ÃŸt das nicht tun. Ihr seid doch frei denkende We-
         sen."
     K.#4: "Was meinst Du, 17?"
-    K.#17: "Ich glaube nicht, #4. Was der Boß sagt, wird gemacht."
-eine riesige automatische Tür öffnet sich, sie treten in irgendeinen Raum-(Prüfungsge-fühl), B. steht mit dem Gesicht zur Wnd, evt. ein Bild betrachtend
+    K.#17: "Ich glaube nicht, #4. Was der BoÃŸ sagt, wird gemacht."
+eine riesige automatische TÃ¼r Ã¶ffnet sich, sie treten in irgendeinen Raum-(PrÃ¼fungsge-fÃ¼hl), B. steht mit dem Gesicht zur Wnd, evt. ein Bild betrachtend
     B.: "Was haben Sie erledigt, #21?"
-    K.#21: "Auftrag phis alpha 2821.",    K.#4: "He, das ist doch die fünfte Carmichael-Zahl."
-    K.#17: "Also tatsächlich Fermat-pseudoprim zu jeder teilerfremden Basis."
+    K.#21: "Auftrag phis alpha 2821.",    K.#4: "He, das ist doch die fÃ¼nfte Carmichael-Zahl."
+    K.#17: "Also tatsÃ¤chlich Fermat-pseudoprim zu jeder teilerfremden Basis."
     B.: "Schnautze! Es gab keinen Auftrag phis alpha 2821!"
 ....K.#21 (schwitzt mit seiner Stimme): "Aber, ich versichere Ihnen, es war nicht mein
         Fehler, Euer durchlauchte Grausamkeit."
-    B.: "Das Schöne an meinem Beruf ist, daß ich über ein solches Versagen nur lächeln
+    B.: "Das SchÃ¶ne an meinem Beruf ist, daÃŸ ich Ã¼ber ein solches Versagen nur lÃ¤cheln
         kann!"
     K.#21 (flehend): "Neinnnn...."
-übliches Geschrei, Qualen, Horror, Schmerz, Pein-stirbt unter höllischen Qualen
+Ã¼bliches Geschrei, Qualen, Horror, Schmerz, Pein-stirbt unter hÃ¶llischen Qualen
 K.#17 und K.#4 setzen sich Sonnenbrillen auf
     B.: "Schafft ihn weg!"
 
 
 
-D.T. putzt sich mit einer trockenen, total verranzten Zahnbürste die Zähne
+D.T. putzt sich mit einer trockenen, total verranzten ZahnbÃ¼rste die ZÃ¤hne
     D.T.: "Es gibt drei Sachen, mit denen man Menschengewinnen kann: erstens Geld,
-       zweitens eine vorgehaltene Waffe und drittens ein strahlendes Lächeln. Da die 
-        ersten beiben meist nicht zur Hand sind...."-überprüft die Zähne-(resigniert)-"Na 
+       zweitens eine vorgehaltene Waffe und drittens ein strahlendes LÃ¤cheln. Da die 
+        ersten beiben meist nicht zur Hand sind...."-Ã¼berprÃ¼ft die ZÃ¤hne-(resigniert)-"Na 
         ja...."
 greift zur Ablage und stecht seine Waffe ein
 
