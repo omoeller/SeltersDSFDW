@@ -10,22 +10,22 @@ KOMPLETT.txt: $(wildcard [a-z]*.txt)
 	echo "## " >> KOMPLETT.txt ;
 	echo "## ============================================= " >> KOMPLETT.txt ;
 	cat \
-	wer.txt		\
-	intro.txt	\
-	mord.txt	\
-	palltag.txt	\
-	k21.txt		\
-	pato1.txt	\
-	licht.txt	\
-	dusche.txt	\
-	pato2.txt	\
-	glibber.txt	\
-	handy.txt	\
-	spelunk.txt	\
-	wilma.txt	\
-	swift.txt	\
-	show.txt	\
-	report.txt	\
+	00_wer.txt	\
+	01_intro.txt	\
+	02_mord.txt	\
+	03_palltag.txt	\
+	04_k21.txt	\
+	05_pato1.txt	\
+	06_licht.txt	\
+	07_dusche.txt	\
+	08_pato2.txt	\
+	09_glibber.txt	\
+	10_handy.txt	\
+	11_spelunk.txt	\
+	12_wilma.txt	\
+	13_swift.txt	\
+	14_show.txt	\
+	15_report.txt	\
 		>> KOMPLETT.txt
 
 clean:	
