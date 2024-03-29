@@ -71,7 +71,7 @@ print("""<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
      DATUM         : {1}
 --> </HEAD>
 <BODY>
-<Ha>Selters - mit den Klons kamen die Tr&auml;nen</H1>
+<H1>Selters - mit den Klons kamen die Tr&auml;nen</H1>
 <b>(Der sch&ouml;nste Film der Welt)</b><br>
 
 <A HREF="https://github.com/omoeller/SeltersDSFDW">https://github.com/omoeller/SeltersDSFDW</A>
