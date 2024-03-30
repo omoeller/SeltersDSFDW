@@ -77,9 +77,13 @@ print("""<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <BODY>
 <H1>Selters - mit den Klons kamen die Tr&auml;nen</H1>
 <b>(Der sch&ouml;nste Film der Welt)</b><br>
-
-<A HREF="https://github.com/omoeller/SeltersDSFDW">https://github.com/omoeller/SeltersDSFDW</A>
-
+<A HREF="https://github.com/omoeller/SeltersDSFDW">https://github.com/omoeller/SeltersDSFDW</A><br>
+<FONT size="-2">
+<pre>
+     VERSIONS-STAND: {0}
+     DATUM         : {1}
+</pre>
+</FONT>
 <HR>
 
 """.format(version, datetime.datetime.today()))
