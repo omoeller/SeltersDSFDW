@@ -21,7 +21,7 @@ K.Z. bedient D.T. mit einem "dotz"
     D.T.: "Das war ein Tief-Schlag, Inspektor."
     K.Z.: "Das DIE auch. Und ich war schon Inspektor, als Du das Revier nur noch von 
         außen kanntest. Apropos, da solltest Du auch sein."
-D.T. schnüffelt völlig dreist an K.Zs. Schreibtisch herum, er erblickt die Akte "K. Avon, Selbstmord"
+D.T. schnüffelt völlig dreist an K.Z.s Schreibtisch herum, er erblickt die Akte "K Avon, Selbstmord"
     D.T.: "Aber, aber, ich wollte doch nur an alte Zeiten erinnern, und sehen, wie unse- 
         re tapfere Polizei so arbeitet.-Hmmm, ich erkenne überhaupt nix auffälliges an 
         diesem Fall."
@@ -71,5 +71,5 @@ D.T. schaut sich noch ein wenig um und bleibt bei einer frischen Leiche stehen
     A.P.: "Ach den, den hat heute Morgen ein Jogger im Gebüsch gefunden. Die Hunde-
         kacke stammt übrigens von demselben Köter. Scheint wirklich kein Glück zu 
         bringen. Ach ja, die Akte mit dem Vorbefund können Sie gleich mitnehmen."
-D:T. schnappt sie sich und verpisst sich
+D.T. schnappt sie sich und verpisst sich
 
