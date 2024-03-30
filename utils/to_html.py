@@ -13,7 +13,7 @@ txt = sys.argv[2:]
 random.seed(4711)
 
 def c2html(c):
-    if c in "öäüÖÄÜß&\n<>´`":
+    if c in "öäüÖÄÜß&\n<>´`§":
         if c == 'ö':
             return "&ouml;"
         if c == 'ä':
@@ -38,6 +38,9 @@ def c2html(c):
             return "&gt;"
         if c in "`´":
             return "'" # "&#39;"
+        if c == "§":
+            return "&sect;"
+ 
     return c
 
 def txt2html(txt):
