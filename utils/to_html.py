@@ -10,7 +10,7 @@ import datetime
 info = sys.argv[1]
 txt = sys.argv[2:]
 
-random.seed(4711)
+random.seed(4712)
 
 def c2html(c):
     if c in "öäüÖÄÜß&\n<>´`§":
@@ -47,7 +47,7 @@ def txt2html(txt):
     return "".join([c2html(x) for x in txt])
 
 def next_col():
-    return  random.randint(0, 0xFFFFffff)
+    return  random.randint(0x222222, 0xFFFFffff)
 
 pat_ref = re.compile('^([^ =]+)[=]([^,]+)[,].*')
 
