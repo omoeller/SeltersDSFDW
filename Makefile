@@ -40,6 +40,11 @@ check:	selters_DSFDW.html
 	tidy -e $(<) 2>&1 \
 	| grep -v "Warning: .font. attribute .color. has invalid value"
 
+.PHONEY: show
+
+show: selters_DSFDW.html
+	firefox $(<) &
+
 .PHONEY: zip
 
 ARCHIVNAME=./Archiv/s-`date +"%Y-%m-%d"`
