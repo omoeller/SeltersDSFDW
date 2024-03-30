@@ -85,12 +85,24 @@ print("""<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 </pre>
 </FONT>
 <HR>
-
+<b>Navigation:</b> 
 """.format(version, datetime.datetime.today()))
 
-last = ""
 for f in txt:
-    print("<H1>{0}</H1>".format(txt2html(f)))
+    id = (f.split('_'))[0]
+    print('<A HREF="#{0}" ALT="jump to {1}">{0}</A> &nbsp; '.format(id, f))
+print("""<br>    
+<HR>
+<FONT SIZE="-1">
+""")
+    
+
+last = ""
+for f in [info] + txt:
+    id = (f.split('_'))[0]
+    if id == "01":
+        print("</FONT>")
+    print('<A NAME="{0}"></A><H2 ID="{0}">{1}</H2>'.format(id, txt2html(f)))
     with open(f, 'r') as inf:
         for line in inf:
             if '#' == line[0]:
@@ -99,10 +111,11 @@ for f in txt:
             line = txt2html(line)
             for k in keys:
                 line = line.replace(k, ref[k])
-            if (last == "<br>") and (line == "<br>"):
+            if (line == "<br>") and ((last == "<br>") or (id == "00")):
                 continue
             print(line)
             last = line
+    print("<hr>")
 print("""
 </BODY>
 </HTML>
