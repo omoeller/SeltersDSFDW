@@ -24,7 +24,7 @@ K.=Kalexa, Besitzerin in zehnter Generation von KK., die gute Seele des Films
 
 H.=Hinfälliger, ein Gast in KK., der schnell hinfällt
 G.=Gast, der stellvertretend für die übrige Mischpoke in KKs. auch mal etwas sagen    
-      darf
+      darf - erweist sich später als Tippgeber "Gulliver"
 a.v.T.=alter verzuzelter angetrunkener Typ, Groupie der Hupfdohlen
 
 A.=Karl Avon, UFO-Berater
@@ -39,6 +39,7 @@ P#1=Polizist 1, generisch
 P#2=Polizist 2, einfach Verstärkung
 F.=Frank, Teil des Ermittlungsteams
 B.=das Böse, strebt die Landkreisherrschaft an
+   hat dicke Salzstangen (="Sepp") auch als Teil seines Folterrepertoires
 K.mit div.#: Klon, #21=führt den nicht existenten Auftrag phis alpha 2821 aus und ver-
                            wirkt damit sein Killerdasein
                    #4=kennt die fünfte Carmichael Zahl; tänzelt mit K.#17 über Dächer
