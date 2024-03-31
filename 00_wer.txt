@@ -25,7 +25,7 @@ K.=Kalexa, Besitzerin in zehnter Generation von KK., die gute Seele des Films
 H.=Hinfälliger, ein Gast in KK., der schnell hinfällt
 G.=Gast, der stellvertretend für die übrige Mischpoke in KKs. auch mal etwas sagen    
       darf
-a.v.T.=alter, verzuzelter, angetrunkener Typ, Groupie der Hupfdohlen
+a.v.T.=alter verzuzelter angetrunkener Typ, Groupie der Hupfdohlen
 
 A.=Karl Avon, UFO-Berater
 

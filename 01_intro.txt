@@ -36,7 +36,7 @@ Schwenk mit Kamera über Bar und Schilder im Hintergrund auf verärgerten Gast -
     G.: "Ich hab´ aber doch Fettmann mit Streuseln bestellt!"
 harter Schwenk auf K./Halbtotale, Perspektive des sitzenden Gastes-
     K.: "Grunz!"-
-K greift in Schürze, zieht erst gebrauchtes Tempo, dann eine Handvoll Streusel heraus, schmeißt diese unwillig auf den Fettmann-
+K. greift in Schürze, zieht erst gebrauchtes Tempo, dann eine Handvoll Streusel heraus, schmeißt diese unwillig auf den Fettmann-
     K. (sehr bestimmend): "Ich hör nix!"-
     G. (sehr, sehr kleinlaut): "Äh, danke."-
     K. (zufrieden):"Grunz!"
@@ -44,16 +44,16 @@ K greift in Schürze, zieht erst gebrauchtes Tempo, dann eine Handvoll Streusel 
 
 
 A. sitzt an einem Tisch
-dunkl Gestalt=K. nähert sich von hinten-Kamera hält auf Rücken des Ks.
-    K.: "Zigarre?"
+dunkl Gestalt (=K.#21) nähert sich von hinten-Kamera hält auf Rücken des Ks.
+    K.#21: "Zigarre?"
     A.: "Oh, ja , äh,danke, toll." (typisch Vertreter)
-K. gibt A. Feuer und verläßt das Lokal
+K.#21 gibt A. Feuer und verläßt das Lokal
 A. (von hinten) pafft
 
 
 
-Huppfdohlen-Performance (Tanz)
-    a.,v., a. D.T. (grölend, mit einem Zittern in der Stimme): "Toll, toll, toll, toll, äääh...,
+Hupfdohlen-Performance (Tanz)
+    a.v.T. (grölend, mit einem Zittern in der Stimme): "Toll, toll, toll, toll, äääh...,
         toll!"
 
 
@@ -63,7 +63,7 @@ KNALL-Schreie, Kamera wackelt, etwas Panik im Lokal
 
 
 
-2. Einstellung: <Der schönste Film der Welt
+2. Einstellung: <Der schönste Film der Welt>
 
 
 Paranoid Pictures
