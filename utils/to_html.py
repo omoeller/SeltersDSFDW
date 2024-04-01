@@ -47,7 +47,7 @@ def txt2html(txt):
     return "".join([c2html(x) for x in txt])
 
 def next_col():
-    return  random.randint(0x222222, 0xFFFFffff)
+    return  random.randint(0x333333, 0xFFFFffff)
 
 pat_ref = re.compile('^([^ =]+)[=]([^,]+)[,].*')
 
